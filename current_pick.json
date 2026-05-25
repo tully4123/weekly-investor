@@ -1,8 +1,8 @@
 {
-  "symbol": "SPY",
-  "name": "SPDR S&P 500 ETF Trust",
-  "asset_type": "etf",
-  "price_at_pick": 0,
+  "symbol": "SI=F",
+  "name": "Silver",
+  "asset_type": "commodity",
+  "price_at_pick": 76.1989974975586,
   "week_picked": "2026-05-25",
-  "score": 0
+  "score": 83
 }
