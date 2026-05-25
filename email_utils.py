@@ -330,6 +330,7 @@ def send_email(subject: str, html: str, to: str) -> None:
     msg.attach(MIMEText(html, "html"))
 
     import ssl
+    print(f"[debug] EMAIL_FROM='{EMAIL_FROM}' | PASS length={len(EMAIL_PASS)} | first4='{EMAIL_PASS[:4]}'")
     context = ssl.create_default_context()
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
         server.login(EMAIL_FROM, EMAIL_PASS)
