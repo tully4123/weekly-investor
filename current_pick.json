@@ -1,8 +1,8 @@
 {
-  "symbol": "SHOP",
-  "name": "Shopify Inc.",
+  "symbol": "JPM",
+  "name": "JPMorgan Chase & Co.",
   "asset_type": "stock",
-  "price_at_pick": 118.70999908447266,
-  "week_picked": "2026-05-31",
-  "score": 86
+  "price_at_pick": 312.3699951171875,
+  "week_picked": "2026-06-07",
+  "score": 83
 }
