@@ -1,8 +1,8 @@
 {
-  "symbol": "JPM",
-  "name": "JPMorgan Chase & Co.",
+  "symbol": "AMD",
+  "name": "Advanced Micro Devices, Inc.",
   "asset_type": "stock",
-  "price_at_pick": 312.3699951171875,
-  "week_picked": "2026-06-07",
+  "price_at_pick": 511.57000732421875,
+  "week_picked": "2026-06-14",
   "score": 83
 }
