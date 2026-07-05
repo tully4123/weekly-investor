@@ -1,8 +1,8 @@
 {
-  "symbol": "UBER",
-  "name": "Uber Technologies, Inc.",
+  "symbol": "AAPL",
+  "name": "Apple Inc.",
   "asset_type": "stock",
-  "price_at_pick": 76.19999694824219,
-  "week_picked": "2026-06-28",
-  "score": 91
+  "price_at_pick": 308.6300048828125,
+  "week_picked": "2026-07-05",
+  "score": 83
 }
