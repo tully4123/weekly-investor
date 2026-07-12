@@ -1,8 +1,8 @@
 {
-  "symbol": "AAPL",
-  "name": "Apple Inc.",
+  "symbol": "NVDA",
+  "name": "NVIDIA Corporation",
   "asset_type": "stock",
-  "price_at_pick": 308.6300048828125,
-  "week_picked": "2026-07-05",
-  "score": 83
+  "price_at_pick": 210.9600067138672,
+  "week_picked": "2026-07-12",
+  "score": 88
 }
