@@ -1,8 +1,8 @@
 {
-  "symbol": "NVDA",
-  "name": "NVIDIA Corporation",
+  "symbol": "XOM",
+  "name": "ExxonMobil Holdings Corporation",
   "asset_type": "stock",
-  "price_at_pick": 210.9600067138672,
-  "week_picked": "2026-07-12",
-  "score": 88
+  "price_at_pick": 147.36000061035156,
+  "week_picked": "2026-07-19",
+  "score": 78
 }
