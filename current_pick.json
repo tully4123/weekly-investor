@@ -1,8 +1,8 @@
 {
-  "symbol": "XOM",
-  "name": "ExxonMobil Holdings Corporation",
-  "asset_type": "stock",
-  "price_at_pick": 147.36000061035156,
-  "week_picked": "2026-07-19",
-  "score": 78
+  "symbol": "AVAX-USD",
+  "name": "Avalanche",
+  "asset_type": "crypto",
+  "price_at_pick": 6.71999979019165,
+  "week_picked": "2026-07-26",
+  "score": 79
 }
