@@ -1,8 +1,8 @@
 {
-  "symbol": "AVAX-USD",
-  "name": "Avalanche",
-  "asset_type": "crypto",
-  "price_at_pick": 6.71999979019165,
-  "week_picked": "2026-07-26",
-  "score": 79
+  "symbol": "AMZN",
+  "name": "Amazon.com, Inc.",
+  "asset_type": "stock",
+  "price_at_pick": 271.5799865722656,
+  "week_picked": "2026-08-02",
+  "score": 90
 }
