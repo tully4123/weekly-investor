@@ -1,8 +1,8 @@
 {
-  "symbol": "ARKK",
-  "name": "ARK Innovation ETF",
+  "symbol": "USO",
+  "name": "United States Oil Fund",
   "asset_type": "etf",
-  "price_at_pick": 79.43000030517578,
-  "week_picked": "2026-08-09",
-  "score": 95
+  "price_at_pick": 126.5999984741211,
+  "week_picked": "2026-08-16",
+  "score": 84
 }
