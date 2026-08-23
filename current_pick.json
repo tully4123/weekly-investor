@@ -1,8 +1,8 @@
 {
-  "symbol": "USO",
-  "name": "United States Oil Fund",
-  "asset_type": "etf",
-  "price_at_pick": 126.5999984741211,
-  "week_picked": "2026-08-16",
-  "score": 84
+  "symbol": "COIN",
+  "name": "Coinbase Global, Inc.",
+  "asset_type": "stock",
+  "price_at_pick": 186.49000549316406,
+  "week_picked": "2026-08-23",
+  "score": 81
 }
