@@ -1,8 +1,8 @@
 {
-  "symbol": "COIN",
-  "name": "Coinbase Global, Inc.",
+  "symbol": "NVDA",
+  "name": "NVIDIA Corporation",
   "asset_type": "stock",
-  "price_at_pick": 186.49000549316406,
-  "week_picked": "2026-08-23",
-  "score": 81
+  "price_at_pick": 217.5500030517578,
+  "week_picked": "2026-08-31",
+  "score": 85
 }
