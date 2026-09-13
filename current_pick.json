@@ -1,8 +1,8 @@
 {
-  "symbol": "SOL-USD",
-  "name": "Solana",
-  "asset_type": "crypto",
-  "price_at_pick": 106.45999908447266,
-  "week_picked": "2026-09-06",
-  "score": 93
+  "symbol": "AMD",
+  "name": "Advanced Micro Devices, Inc.",
+  "asset_type": "stock",
+  "price_at_pick": 516.1300048828125,
+  "week_picked": "2026-09-13",
+  "score": 83
 }
