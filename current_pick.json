@@ -1,8 +1,8 @@
 {
-  "symbol": "SOL-USD",
-  "name": "Solana",
-  "asset_type": "crypto",
-  "price_at_pick": 111.0199966430664,
-  "week_picked": "2026-09-20",
-  "score": 93
+  "symbol": "SHOP",
+  "name": "Shopify Inc.",
+  "asset_type": "stock",
+  "price_at_pick": 142.25,
+  "week_picked": "2026-09-28",
+  "score": 89
 }
