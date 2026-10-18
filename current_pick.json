@@ -1,8 +1,8 @@
 {
-  "symbol": "AMZN",
-  "name": "Amazon.com, Inc.",
+  "symbol": "AAPL",
+  "name": "Apple Inc.",
   "asset_type": "stock",
-  "price_at_pick": 262.42999267578125,
-  "week_picked": "2026-10-12",
-  "score": 83
+  "price_at_pick": 343.4599914550781,
+  "week_picked": "2026-10-18",
+  "score": 85
 }
