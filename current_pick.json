@@ -1,8 +1,8 @@
 {
-  "symbol": "AAPL",
-  "name": "Apple Inc.",
+  "symbol": "TSLA",
+  "name": "Tesla, Inc.",
   "asset_type": "stock",
-  "price_at_pick": 343.4599914550781,
-  "week_picked": "2026-10-18",
-  "score": 85
+  "price_at_pick": 372.2200012207031,
+  "week_picked": "2026-10-25",
+  "score": 81
 }
